@@ -89,3 +89,18 @@ export const articles = [
     desc: "Innovative Architecture  Design Studio With Experience Of",
   },
 ];
+
+export const experts = [
+  {id:1, name: "Ronald Richards", des:"Web Designer", img:"team-1.jpeg"},
+  {id:2, name: "Jerome Bell", des:"UI/UX Designer", img:"team-2.jpeg"},
+  {id:3, name: "Darrell Steward", des:"Development", img:"team-3.jpeg"},
+  {id:4, name: "Joseph Benjami", des:"Project manager", img:"team-4.jpeg"},
+]
+
+export const reviews = [
+  {id:1, name: "James Pattinson", desc:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum", ratings:4, img:"review-1.jpeg"},
+  {id:2, name: "Greg Stuart", desc:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum", ratings:4, img:"review-2.jpeg"},
+  {id:3, name: "Greg Pattinson", desc:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum", ratings:4, img:"review-1.jpeg"},
+  {id:4, name: "James Stuart", desc:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum", ratings:4, img:"review-2.jpeg"},
+];
+

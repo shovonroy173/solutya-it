@@ -7,10 +7,10 @@ const Article = () => {
         <div className="">
           <img src="blog.png" alt="" />
         </div>
-        <p className="absolute top-5 left-25 flex flex-col items-center justify-center">
+        <div className="absolute top-1/2 left-1/2 transform -translate-1/2 flex flex-col items-center justify-center">
           <p className="text-[#B68053] font-display3 text-[24px] font-medium">Our Blog</p>
-          <p className=" text-[42px] font-semibold">Recent Articles</p>
-        </p>
+          <p className="text-base sm:text-[42px] font-semibold text-nowrap text-center">Recent Articles</p>
+        </div>
       </div>
       <div className="flex items-center justify-center flex-wrap gap-10">
         {articles.map((item) => (
