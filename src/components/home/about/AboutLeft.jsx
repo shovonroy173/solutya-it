@@ -1,7 +1,7 @@
 const AboutLeft = () => {
   return (
-    <div className="flex flex-wrap justify-center gap-20 sm:gap-6">
-        <div className="flex flex-col gap-20 sm:gap-6">
+    <div className="flex flex-wrap items-center justify-center gap-20 sm:gap-6">
+        <div className="flex flex-col gap-20 sm:gap-12">
           <div className="relative">
             <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] bg-[#ECA76E]"></div>
             <div className="w-[230px] h-[180px] md:w-[290px] md:h-[220px] absolute top-3 left-3">

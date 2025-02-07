@@ -8,7 +8,7 @@ import NavbarLinks from "./SubNavbar";
 const Navbar = () => {
 
   return (
-    <div className="flex justify-between items-center h-26 border-b-2 border-blue-500 px-14 sm:px-20 pt-5 relative">
+    <div className="flex justify-between items-center h-26 px-14 sm:px-20 pt-5  w-full bg-white ">
       <div >
         <img src="logo.png" alt="" className="" />
       </div>

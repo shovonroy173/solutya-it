@@ -89,7 +89,7 @@ const Contact = () => {
           placeholder="Tell Us About You"
         />
 
-        <button className="bg-[#ECA76E] px-20 py-2 rounded-xl w-4/5 mx-auto mt-20">
+        <button className="bg-[#ECA76E] px-20 py-2 rounded-xl w-fit sm:w-4/5 mx-auto  mt-20">
           Lets Get Started
         </button>
       </div>

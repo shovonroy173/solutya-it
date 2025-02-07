@@ -19,7 +19,7 @@ const Promo = () => {
   return (
     <div className=" bg-[url(promo-bg.jpeg)] bg-no-repeat bg-cover bg-center ">
         <div className="bg-black/60 flex flex-col md:flex-row items-center justify-between w-full h-full gap-10  p-18 ">
-        <div className="w-1/2 flex flex-col gap-10">
+        <div className="w-full sm:w-1/2 flex flex-col gap-10">
             <p className="text-[#ECA76E] text-base font-medium">PROMO VIDEO</p>
             <p className="text-white text-3xl font-semibold font-display3">Ensuring a safe experience from design to installation</p>
             <p className="text-white/70 text-[15px] font-display3">Nurani Interior possesses vast experience in the Interior Design industry having a large technical resource of Interior Designers, Architects, Electrical & Civil Engineers. We are also privileged to develop some significant interior projects since 2010.</p>
